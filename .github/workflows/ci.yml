@@ -6,6 +6,7 @@ on:
     branches: [main, master]
   pull_request:
     branches: [main, master]
+  workflow_dispatch:  # Cho phép Run workflow thủ công (Actions → CI → Run workflow) để badge CI có dữ liệu
 
 jobs:
   test:

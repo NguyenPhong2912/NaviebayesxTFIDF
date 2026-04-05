@@ -1,16 +1,16 @@
 <div align="center">
 
-# 🇻🇳 VN-FakeChat
+# 📰 VN-FakeChat
 
-**Ứng dụng phát hiện tin giả tiếng Việt — TF-IDF + đặc trưng ngôn ngữ + Hybrid MLP + Naive Bayes**
+**Ứng dụng phát hiện tin giả tiếng Việt** — TF-IDF · đặc trưng ngôn ngữ · Hybrid MLP · Naive Bayes
 
 🔗 **Repository:** [github.com/NguyenPhong2912/NaviebayesxTFIDF](https://github.com/NguyenPhong2912/NaviebayesxTFIDF)
 
-[![CI](https://github.com/NguyenPhong2912/NaviebayesxTFIDF/actions/workflows/ci.yml/badge.svg)](https://github.com/NguyenPhong2912/NaviebayesxTFIDF/actions/workflows/ci.yml)
+<!-- CI: dùng shields.io + branch=main (badge GitHub gốc hay hiện "no status" khi chưa có run). Repo size: shields đôi khi báo 0 B — đã bỏ. -->
+[![CI](https://img.shields.io/github/actions/workflow/status/NguyenPhong2912/NaviebayesxTFIDF/ci.yml?branch=main&style=for-the-badge&logo=githubactions&logoColor=white&label=CI)](https://github.com/NguyenPhong2912/NaviebayesxTFIDF/actions/workflows/ci.yml)
 [![Stars](https://img.shields.io/github/stars/NguyenPhong2912/NaviebayesxTFIDF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NguyenPhong2912/NaviebayesxTFIDF/stargazers)
 [![Forks](https://img.shields.io/github/forks/NguyenPhong2912/NaviebayesxTFIDF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NguyenPhong2912/NaviebayesxTFIDF/network/members)
 [![Last Commit](https://img.shields.io/github/last-commit/NguyenPhong2912/NaviebayesxTFIDF?style=for-the-badge&logo=git&logoColor=white)](https://github.com/NguyenPhong2912/NaviebayesxTFIDF/commits)
-[![Repo Size](https://img.shields.io/github/repo-size/NguyenPhong2912/NaviebayesxTFIDF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NguyenPhong2912/NaviebayesxTFIDF)
 [![Issues](https://img.shields.io/github/issues/NguyenPhong2912/NaviebayesxTFIDF?style=for-the-badge&logo=githubissues&logoColor=white)](https://github.com/NguyenPhong2912/NaviebayesxTFIDF/issues)
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
