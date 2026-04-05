@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.so
+.venv/
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Logs & local
+logs/
+*.log
+
+# Huấn luyện — file lớn (tùy chọn: bỏ dòng dưới nếu muốn commit model lên LFS)
+models/*.pkl
+models/*.pth
+models/*.png
+
+# Dữ liệu thô (VFND thường rất nặng — chỉ giữ cấu trúc)
+data/raw/
+
+# OS
+.DS_Store
+Thumbs.db

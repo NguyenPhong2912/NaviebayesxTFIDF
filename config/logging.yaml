@@ -1,0 +1,27 @@
+version: 1
+formatters:
+  detailed:
+    format: "%(asctime)s | %(levelname)-8s | %(name)s | %(message)s | %(pathname)s:%(lineno)d"
+handlers:
+  console:
+    class: logging.StreamHandler
+    level: DEBUG
+    formatter: detailed
+  file_app:
+    class: logging.handlers.RotatingFileHandler
+    filename: logs/app.log
+    maxBytes: 10485760
+    backupCount: 5
+    formatter: detailed
+    encoding: utf-8
+  file_error:
+    class: logging.handlers.RotatingFileHandler
+    filename: logs/error.log
+    level: ERROR
+    formatter: detailed
+    encoding: utf-8
+loggers:
+  vn_fakechat:
+    level: INFO
+    handlers: [console, file_app, file_error]
+    propagate: false

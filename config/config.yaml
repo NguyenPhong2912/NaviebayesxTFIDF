@@ -1,0 +1,32 @@
+app:
+  title: "VN-FakeChat - AI Phát Hiện Tin Giả Tiếng Việt"
+  geometry: "1220x860"
+  min_size: [900, 600]
+  theme: "dark"
+
+model:
+  vectorizer_file: "tfidf_vectorizer.pkl"
+  nb_file: "complement_nb.pkl"
+  mlp_file: "hybrid_mlp.pth"
+  scaler_file: "feature_scaler.pkl"
+  fake_threshold: 55  # % xác suất để coi là tin giả
+
+# Huấn luyện: pipeline TF-IDF + MLP (không phải fine-tune BERT/transformer).
+# Các tham số dưới đây giúp scale khi gộp nhiều nguồn / corpus lớn và giảm nhầm nhãn.
+training:
+  test_size: 0.15
+  val_size: 0.15  # tỷ lệ trên phần còn lại sau test
+  random_state: 42
+  tfidf_max_features_cap: 50000
+  tfidf_max_features_floor: 8000
+  tfidf_min_df_floor: 2
+  tfidf_min_df_cap: 50
+  balance_augment_min_per_class: 800
+  balance_augment_max_per_class: 20000  # tránh nhân bản quá mức khi đã có nhiều mẫu
+  use_class_weight_bce: true
+
+analysis:
+  min_text_length: 30  # Ký tự tối thiểu để phân tích tin giả
+  max_crawl_length: 8000  # Giới hạn ký tự khi crawl bài báo
+
+debug: false

@@ -1,0 +1,63 @@
+[
+  {"text": "Bộ Y tế khuyến cáo người dân tiêm đầy đủ các mũi vaccine phòng COVID-19 theo khuyến nghị của Tổ chức Y tế Thế giới. Theo thống kê, tỷ lệ tiêm chủng tại Việt Nam đã đạt trên 85% dân số trưởng thành.", "category": "y_te"},
+  {"text": "Nghiên cứu mới được công bố trên tạp chí y khoa The Lancet cho thấy chế độ ăn giàu rau xanh và hoa quả giúp giảm 20% nguy cơ mắc bệnh tim mạch. Các nhà khoa học đã theo dõi hơn 50.000 người trong 10 năm.", "category": "y_te"},
+  {"text": "Bệnh viện Chợ Rẫy vừa thực hiện thành công ca ghép gan từ người cho sống, cứu bệnh nhân xơ gan giai đoạn cuối. Đây là ca ghép gan thứ 50 của bệnh viện trong năm nay.", "category": "y_te"},
+  {"text": "Theo báo cáo của Sở Y tế Hà Nội, số ca mắc sốt xuất huyết trong tuần qua đã giảm 15% so với tuần trước nhờ chiến dịch diệt muỗi và loăng quăng được triển khai đồng bộ tại 30 quận huyện.", "category": "y_te"},
+  {"text": "Viện Pasteur TP.HCM khuyến cáo người dân không nên tự ý dùng kháng sinh khi bị cảm cúm thông thường. Việc lạm dụng kháng sinh có thể dẫn đến tình trạng kháng thuốc nghiêm trọng.", "category": "y_te"},
+  {"text": "Giá trị xuất khẩu dược phẩm Việt Nam tăng 12% trong quý đầu năm, đạt 150 triệu USD theo số liệu của Tổng cục Hải quan. Các thị trường chính gồm Nhật Bản, Hàn Quốc và ASEAN.", "category": "y_te"},
+  {"text": "Bộ Y tế vừa phê duyệt thuốc điều trị ung thư phổi mới, giúp kéo dài thời gian sống thêm trung bình 8 tháng cho bệnh nhân giai đoạn cuối. Thuốc sẽ được bảo hiểm y tế chi trả từ tháng tới.", "category": "y_te"},
+  {"text": "Chương trình khám sức khỏe miễn phí cho người cao tuổi tại 15 tỉnh miền núi phía Bắc đã khám được hơn 20.000 người trong đợt đầu tiên. Nhiều ca bệnh mãn tính được phát hiện sớm nhờ chương trình.", "category": "y_te"},
+
+  {"text": "Ngân hàng Nhà nước quyết định giữ nguyên lãi suất điều hành ở mức 4.5% nhằm hỗ trợ tăng trưởng kinh tế. Quyết định này phù hợp với xu hướng của nhiều ngân hàng trung ương trong khu vực.", "category": "tai_chinh"},
+  {"text": "Theo số liệu của Tổng cục Thống kê, GDP Việt Nam quý 3 tăng 5.33% so với cùng kỳ năm trước, đưa tăng trưởng 9 tháng đầu năm đạt 5.1%. Xuất khẩu và tiêu dùng nội địa là động lực tăng trưởng chính.", "category": "tai_chinh"},
+  {"text": "VN-Index đóng cửa phiên giao dịch hôm nay tại mức 1.245 điểm, tăng 8 điểm so với phiên trước. Thanh khoản thị trường đạt hơn 18.000 tỷ đồng, tập trung ở nhóm cổ phiếu ngân hàng.", "category": "tai_chinh"},
+  {"text": "Tổng cục Thuế cho biết thu ngân sách nhà nước 10 tháng đầu năm đạt hơn 1.3 triệu tỷ đồng, bằng 88% dự toán năm. Thu từ khu vực doanh nghiệp có vốn đầu tư nước ngoài tăng mạnh nhất.", "category": "tai_chinh"},
+  {"text": "Giá xăng trong nước điều chỉnh giảm 500 đồng mỗi lít trong kỳ điều chỉnh hôm nay, theo liên Bộ Công Thương và Tài chính. Xăng RON95 hiện có giá 23.400 đồng mỗi lít.", "category": "tai_chinh"},
+  {"text": "FDI đăng ký vào Việt Nam 9 tháng đầu năm đạt 20.2 tỷ USD, tăng 7.7% so với cùng kỳ. Lĩnh vực chế biến chế tạo chiếm tỷ trọng lớn nhất với 65% tổng vốn đăng ký.", "category": "tai_chinh"},
+  {"text": "Ngân hàng BIDV vừa công bố kết quả kinh doanh quý 3 với lợi nhuận trước thuế đạt 5.800 tỷ đồng, tăng 11% so với cùng kỳ. Tỷ lệ nợ xấu được kiểm soát ở mức 1.5%.", "category": "tai_chinh"},
+
+  {"text": "Thủ tướng chủ trì phiên họp Chính phủ thường kỳ tháng 10, thảo luận về tình hình kinh tế xã hội và các giải pháp thúc đẩy tăng trưởng những tháng cuối năm. Chính phủ đặt mục tiêu GDP cả năm đạt 6.5%.", "category": "chinh_tri"},
+  {"text": "Quốc hội khai mạc kỳ họp thứ 6 với nhiều nội dung quan trọng bao gồm xem xét sửa đổi Luật Đất đai, Luật Nhà ở và thảo luận về kế hoạch phát triển kinh tế xã hội năm tới.", "category": "chinh_tri"},
+  {"text": "Chủ tịch nước tiếp Đại sứ Nhật Bản tại Việt Nam, hai bên nhất trí tiếp tục tăng cường quan hệ đối tác chiến lược toàn diện, đặc biệt trong lĩnh vực kinh tế, giáo dục và chuyển đổi số.", "category": "chinh_tri"},
+  {"text": "Bộ Nội vụ đề xuất tinh giản 5% biên chế công chức trong giai đoạn tới nhằm nâng cao hiệu quả bộ máy hành chính nhà nước. Đề xuất đang được lấy ý kiến các bộ ngành.", "category": "chinh_tri"},
+  {"text": "Hội đồng Bầu cử Quốc gia công bố danh sách chính thức 500 ứng cử viên đại biểu Quốc hội khóa XVI. Tỷ lệ ứng cử viên nữ chiếm 42%, tăng so với khóa trước.", "category": "chinh_tri"},
+  {"text": "Bộ trưởng Bộ Ngoại giao Việt Nam và Bộ trưởng Ngoại giao Hàn Quốc đã ký biên bản ghi nhớ hợp tác về chuyển đổi số và trí tuệ nhân tạo bên lề Hội nghị ASEAN.", "category": "chinh_tri"},
+
+  {"text": "Viện Hàn lâm Khoa học và Công nghệ Việt Nam công bố kết quả nghiên cứu mới về giống lúa chịu mặn, có thể trồng được ở vùng đất nhiễm mặn tại đồng bằng sông Cửu Long.", "category": "khoa_hoc"},
+  {"text": "Đài quan sát thiên văn quốc gia cho biết hiện tượng nguyệt thực toàn phần sẽ diễn ra vào đêm 15 tháng tới, người dân có thể quan sát bằng mắt thường từ 20h đến 23h.", "category": "khoa_hoc"},
+  {"text": "Nhóm nghiên cứu Đại học Bách khoa Hà Nội đã phát triển thành công vật liệu composite mới từ sợi tre, nhẹ hơn thép 60% nhưng có độ bền tương đương. Nghiên cứu đã được công bố trên tạp chí quốc tế.", "category": "khoa_hoc"},
+  {"text": "Theo NASA, tàu thám hiểm Perseverance đã phát hiện thêm bằng chứng về sự tồn tại của nước trên sao Hỏa trong quá khứ. Mẫu đất đá thu thập cho thấy khoáng chất hình thành trong môi trường nước.", "category": "khoa_hoc"},
+  {"text": "Trung tâm Khí tượng Thủy văn Quốc gia dự báo mùa mưa năm nay tại miền Trung sẽ đến muộn hơn trung bình nhiều năm khoảng 2 tuần, do ảnh hưởng của hiện tượng El Nino.", "category": "khoa_hoc"},
+
+  {"text": "Bộ phim Việt Nam mới ra rạp tuần này đã thu về 50 tỷ đồng sau 3 ngày công chiếu, trở thành phim có doanh thu mở màn cao nhất năm. Phim do đạo diễn trẻ thực hiện.", "category": "giai_tri"},
+  {"text": "Liên hoan phim quốc tế Hà Nội lần thứ 7 sẽ diễn ra từ ngày 10 đến 15 tháng 11 với sự tham gia của 45 quốc gia. Ban giám khảo quốc tế gồm 7 thành viên từ nhiều nền điện ảnh.", "category": "giai_tri"},
+  {"text": "Ca sĩ Việt Nam lần đầu tiên lọt vào top 100 Billboard Global với ca khúc tiếng Việt, đánh dấu bước tiến quan trọng của âm nhạc Việt Nam trên thị trường quốc tế.", "category": "giai_tri"},
+
+  {"text": "Theo thống kê của Bộ Công an, số vụ tai nạn giao thông trong 9 tháng đầu năm giảm 12% so với cùng kỳ năm trước nhờ tăng cường tuần tra và xử phạt qua camera giám sát.", "category": "xa_hoi"},
+  {"text": "TP.HCM khởi công tuyến metro số 2 Bến Thành - Tham Lương dài 11 km với tổng vốn đầu tư 47.000 tỷ đồng. Dự kiến hoàn thành và đưa vào khai thác năm 2030.", "category": "xa_hoi"},
+  {"text": "Chương trình xóa nhà tạm, nhà dột nát cho hộ nghèo trên cả nước đã hoàn thành xây mới và sửa chữa hơn 15.000 căn nhà trong năm nay, vượt 20% kế hoạch đề ra.", "category": "xa_hoi"},
+  {"text": "Bão số 4 đổ bộ vào các tỉnh miền Trung với sức gió mạnh nhất cấp 10-11, giật cấp 13. Các tỉnh Quảng Bình, Quảng Trị đã sơ tán hơn 50.000 dân đến nơi an toàn.", "category": "xa_hoi"},
+  {"text": "Kỳ thi tốt nghiệp THPT năm nay có hơn 1 triệu thí sinh tham dự. Bộ Giáo dục cho biết tỷ lệ đỗ tốt nghiệp toàn quốc đạt 98.5%, trong đó nhiều tỉnh miền núi cải thiện đáng kể.", "category": "xa_hoi"},
+  {"text": "Hà Nội triển khai thêm 10 tuyến xe buýt điện mới trong quý tới, nâng tổng số tuyến xe buýt điện lên 25 tuyến. Mỗi xe buýt có sức chứa 80 hành khách, trang bị wifi miễn phí.", "category": "xa_hoi"},
+  {"text": "Sở Giáo dục Hà Nội công bố tỷ lệ chọi vào lớp 10 công lập năm nay là 1 chọi 1.8, tương đương năm trước. Kỳ thi sẽ diễn ra vào ngày 10 và 11 tháng 6.", "category": "xa_hoi"},
+
+  {"text": "FPT Software vừa ký hợp đồng trị giá 100 triệu USD với đối tác Nhật Bản trong lĩnh vực chuyển đổi số. Đây là hợp đồng lớn nhất của công ty trong năm nay.", "category": "cong_nghe"},
+  {"text": "Theo báo cáo của Google, Việt Nam nằm trong top 5 quốc gia có tốc độ tăng trưởng kinh tế số nhanh nhất Đông Nam Á với giá trị ước đạt 23 tỷ USD trong năm nay.", "category": "cong_nghe"},
+  {"text": "Bộ Thông tin và Truyền thông cho biết tỷ lệ phủ sóng 4G tại Việt Nam đã đạt 99.8% dân số. Mạng 5G đang được thử nghiệm tại 20 tỉnh thành với hơn 3000 trạm phát sóng.", "category": "cong_nghe"},
+  {"text": "Startup công nghệ Việt Nam trong lĩnh vực fintech vừa gọi vốn thành công vòng Series B trị giá 30 triệu USD từ các quỹ đầu tư Singapore và Hàn Quốc.", "category": "cong_nghe"},
+  {"text": "VNPT và Viettel cùng công bố giảm giá cước internet cáp quang từ 10 đến 15% cho các gói gia đình và doanh nghiệp nhỏ, áp dụng từ đầu tháng tới.", "category": "cong_nghe"},
+
+  {"text": "Đội tuyển Việt Nam giành chiến thắng 2-1 trước Thái Lan trong trận chung kết AFF Cup. Bàn thắng quyết định được ghi ở phút 88 từ pha phản công nhanh.", "category": "the_thao"},
+  {"text": "VĐV Nguyễn Thị Oanh giành HCV marathon tại SEA Games với thành tích 2 giờ 41 phút, phá kỷ lục đại hội. Đây là tấm HCV thứ 3 của cô tại kỳ SEA Games này.", "category": "the_thao"},
+  {"text": "CLB Hà Nội FC vô địch V-League mùa giải năm nay với 58 điểm sau 26 vòng đấu, bỏ xa đội xếp thứ 2 là Hải Phòng 7 điểm. HLV trưởng cho biết mục tiêu tiếp theo là AFC Champions League.", "category": "the_thao"},
+  {"text": "Liên đoàn Bóng đá Việt Nam ký hợp đồng với HLV ngoại mới cho đội tuyển quốc gia, thời hạn 2 năm với mục tiêu vào vòng loại cuối cùng World Cup 2030.", "category": "the_thao"},
+
+  {"text": "Việt Nam và Nhật Bản ký hiệp định hợp tác mới về lao động, mở rộng ngành nghề tiếp nhận thực tập sinh từ 14 lên 22 ngành. Dự kiến sẽ có thêm 50.000 lao động Việt Nam sang Nhật mỗi năm.", "category": "quoc_te"},
+  {"text": "ASEAN và Trung Quốc đạt thỏa thuận về Bộ Quy tắc ứng xử ở Biển Đông sau nhiều vòng đàm phán. Các bên cam kết giải quyết tranh chấp bằng biện pháp hòa bình theo luật pháp quốc tế.", "category": "quoc_te"},
+  {"text": "Thương mại song phương Việt Nam - Hoa Kỳ đạt kỷ lục 124 tỷ USD trong năm qua, tăng 8% so với năm trước. Việt Nam tiếp tục là đối tác thương mại lớn thứ 8 của Mỹ.", "category": "quoc_te"},
+  {"text": "Hội nghị COP29 tại Azerbaijan vừa kết thúc với cam kết 300 tỷ USD cho quỹ khí hậu. Việt Nam cam kết giảm 43.5% lượng phát thải khí nhà kính vào năm 2030.", "category": "quoc_te"},
+
+  {"text": "Xuất khẩu gạo Việt Nam 10 tháng đầu năm đạt 7.1 triệu tấn, trị giá 4.4 tỷ USD, tăng 16% so với cùng kỳ. Philippines và Indonesia tiếp tục là hai thị trường nhập khẩu gạo lớn nhất.", "category": "nong_nghiep"},
+  {"text": "Giá cà phê robusta Việt Nam đạt mức cao nhất trong 15 năm qua, hiện ở mức 72.000 đồng mỗi kg. Nguyên nhân do nguồn cung toàn cầu thiếu hụt vì thời tiết bất lợi tại Brazil.", "category": "nong_nghiep"},
+  {"text": "Bộ Nông nghiệp công bố diện tích trồng rừng mới đạt 250.000 ha trong năm, vượt kế hoạch 5%. Tỷ lệ che phủ rừng toàn quốc hiện đạt 42.02%, tăng nhẹ so với năm trước.", "category": "nong_nghiep"}
+]

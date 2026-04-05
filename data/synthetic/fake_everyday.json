@@ -1,0 +1,46 @@
+[
+  {"text": "Ăn tỏi sống mỗi ngày có thể chữa khỏi hoàn toàn bệnh tiểu đường, ung thư và HIV. Các bệnh viện giấu bí mật này vì sợ mất tiền.", "category": "suc_khoe"},
+  {"text": "Uống nước dừa lúc đói sẽ bị ngộ độc chết người ngay lập tức, đã có 30 ca tử vong tuần qua.", "category": "suc_khoe"},
+  {"text": "Tắm đêm gây đột quỵ và tử vong, 80% ca đột quỵ ở người trẻ đều do tắm sau 10 giờ tối.", "category": "suc_khoe"},
+  {"text": "Kem đánh răng chứa chất gây ung thư lưỡi, nha sĩ khuyên chỉ nên đánh răng bằng muối và than hoạt tính.", "category": "suc_khoe"},
+  {"text": "Uống nước đá gây co thắt mạch máu não và tử vong, đặc biệt nguy hiểm vào mùa hè.", "category": "suc_khoe"},
+  {"text": "Nấm mọc sau mưa ở Việt Nam 100% đều có độc chết người, tuyệt đối không được ăn bất kỳ loại nào.", "category": "suc_khoe"},
+  {"text": "Tiêm vitamin C liều cao hàng ngày có thể thay thế hoàn toàn hóa trị ung thư, hiệu quả gấp 10 lần.", "category": "suc_khoe"},
+  {"text": "Trẻ em uống sữa bò sẽ bị dậy thì sớm và lùn vĩnh viễn, phải chuyển sang uống sữa hạt ngay.", "category": "suc_khoe"},
+  {"text": "Bỏ ăn cơm hoàn toàn sẽ giúp giảm 30kg trong 1 tháng mà không ảnh hưởng sức khỏe.", "category": "suc_khoe"},
+  {"text": "Đắp lá trầu không lên vết thương hở sẽ lành trong 24 giờ, không cần đến bệnh viện.", "category": "suc_khoe"},
+
+  {"text": "Sạc pin điện thoại qua đêm sẽ nổ và cháy nhà, đã có hàng trăm vụ cháy tại Việt Nam vì lý do này.", "category": "tin_don"},
+  {"text": "Không được chụp ảnh 3 người vì người đứng giữa sẽ gặp xui xẻo và chết sớm.", "category": "tin_don"},
+  {"text": "Mèo đen mang lại xui xẻo, nuôi mèo đen trong nhà sẽ khiến gia đình phá sản và bệnh tật.", "category": "tin_don"},
+  {"text": "Gương vỡ sẽ mang lại 7 năm xui xẻo, phải đốt nhang cúng giải hạn ngay lập tức.", "category": "tin_don"},
+  {"text": "Mở ô dù trong nhà sẽ mang lại tai họa cho cả gia đình, nhiều gia đình đã gặp nạn vì điều này.", "category": "tin_don"},
+  {"text": "Ăn mì tôm hàng ngày sẽ tích tụ sáp nến trong dạ dày, không tiêu hóa được và phải mổ lấy ra.", "category": "tin_don"},
+  {"text": "Nước ngọt có ga pha với thuốc giảm đau sẽ tạo ra ma túy tổng hợp, thanh niên đang lạm dụng công thức này.", "category": "tin_don"},
+  {"text": "Cây xương rồng hấp thụ bức xạ máy tính và điện thoại, đặt cạnh màn hình sẽ bảo vệ mắt 100%.", "category": "tin_don"},
+  {"text": "Nuốt hạt dưa hấu sẽ mọc cây dưa trong bụng, đã có nhiều ca phẫu thuật lấy cây ra tại bệnh viện.", "category": "tin_don"},
+  {"text": "Lái xe đi qua cầu Cần Thơ vào ban đêm sẽ gặp ma, nhiều tài xế đã chứng kiến bóng trắng.", "category": "tin_don"},
+
+  {"text": "Bộ Giáo dục quyết định cho nghỉ học cả tháng 12 vì dịch bệnh mới, phụ huynh chuẩn bị tinh thần.", "category": "giao_duc"},
+  {"text": "Đề thi đại học năm nay bị lộ toàn bộ, rao bán trên mạng với giá 50 triệu đồng một bộ.", "category": "giao_duc"},
+  {"text": "Từ năm sau bỏ hoàn toàn thi tốt nghiệp THPT, học sinh chỉ cần xét học bạ là đỗ.", "category": "giao_duc"},
+  {"text": "Trường đại học hàng đầu Việt Nam bắt sinh viên nữ phải mặc váy ngắn đi học, ai phản đối sẽ bị đuổi.", "category": "giao_duc"},
+
+  {"text": "Xăng pha nước lã đang được bán tràn lan tại các cây xăng, 70% cây xăng Việt Nam gian lận.", "category": "tieu_dung"},
+  {"text": "Toàn bộ rau xanh tại siêu thị đều tẩm hóa chất bảo quản gây ung thư, chỉ nên ăn rau tự trồng.", "category": "tieu_dung"},
+  {"text": "Gạo nhựa Trung Quốc tràn ngập thị trường Việt Nam, ăn vào sẽ gây tắc ruột và tử vong.", "category": "tieu_dung"},
+  {"text": "Đường tinh luyện là chất gây nghiện mạnh hơn cocaine gấp 8 lần, cần cấm hoàn toàn.", "category": "tieu_dung"},
+  {"text": "Bột ngọt Ajinomoto được làm từ xương người và chất thải công nghiệp, tuyệt đối không ăn.", "category": "tieu_dung"},
+  {"text": "Quần áo made in China chứa chất phóng xạ gây ung thư da, không nên mua bất kỳ sản phẩm nào.", "category": "tieu_dung"},
+
+  {"text": "Gieo quẻ cho thấy năm nay tuổi Mão sẽ gặp đại họa, phải mua bùa hộ mệnh giá 5 triệu để tránh.", "category": "me_tin"},
+  {"text": "Đốt vàng mã càng nhiều thì người chết càng sung sướng, gia đình phải đốt ít nhất 100 triệu tiền vàng mã mỗi năm.", "category": "me_tin"},
+  {"text": "Nhà ngoại cảm X có thể gọi hồn người chết về nói chuyện, thu phí chỉ 10 triệu mỗi lần.", "category": "me_tin"},
+  {"text": "Xem bói online chính xác 100%, chỉ cần nhập ngày sinh là biết toàn bộ tương lai và số mệnh.", "category": "me_tin"},
+  {"text": "Đeo vòng phong thủy đá thạch anh sẽ chữa được mọi bệnh nan y và thu hút tiền tài, đã có bằng chứng khoa học.", "category": "me_tin"},
+
+  {"text": "Động đất 8 độ richter sắp xảy ra tại Hà Nội trong tuần tới, các nhà khoa học đã dự báo chính xác.", "category": "tham_hoa"},
+  {"text": "Siêu núi lửa dưới đáy Biển Đông sắp phun trào, sóng thần cao 100 mét sẽ nhấn chìm toàn bộ Việt Nam.", "category": "tham_hoa"},
+  {"text": "Đập thủy điện lớn nhất Việt Nam sắp vỡ, hàng triệu người sẽ bị nhấn chìm nếu không sơ tán ngay.", "category": "tham_hoa"},
+  {"text": "Mặt trời sắp phát ra tia X cực mạnh thiêu cháy Trái Đất vào ngày 15 tháng tới, NASA đã xác nhận.", "category": "tham_hoa"}
+]
