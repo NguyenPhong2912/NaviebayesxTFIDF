@@ -35,6 +35,7 @@
 - [Đánh giá nhanh](#-đánh-giá-nhanh)
 - [Cấu trúc thư mục](#-cấu-trúc-thư-mục)
 - [Dataset](#-dataset)
+- [Đẩy code lên GitHub](#-đẩy-code-lên-github-một-lần)
 - [Giấy phép](#-giấy-phép)
 
 ---
