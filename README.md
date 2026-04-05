@@ -18,9 +18,9 @@
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-TF--IDF%20%2B%20NB-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
 [![CustomTkinter](https://img.shields.io/badge/GUI-CustomTkinter-1F6FEB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/TomSchimansky/CustomTkinter)
 
-[![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNguyenPhong2912%2FNaviebayesxTFIDF&title=Visitors&count_bg=%230e75b6&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&edge_flat=false)](https://hits.seeyoufarm.com)
-
 </div>
+
+<!-- Badge "Visitors" (hits.seeyoufarm.com) đã bỏ: domain thường lỗi DNS/bị chặn (NXDOMAIN). Lượt xem repo xem tại GitHub → Insights → Traffic (chỉ chủ repo). -->
 
 ---
 
